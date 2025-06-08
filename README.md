@@ -27,7 +27,7 @@
 ````bash
 pip install -r 要求.txt
 
-
+````
 # iperf3 GUI 简体中文
 
 一个跨平台的iperf3图形用户界面，支持控制各种参数和图形化显示网络流量。
