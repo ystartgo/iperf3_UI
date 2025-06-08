@@ -188,7 +188,7 @@ class IperfGUI(QMainWindow):
         }
         
         # GitHub 倉庫 URL
-        self.github_url = "https://github.com/startgo-app/iperf-gui"
+        self.github_url = "https://github.com/ystartgo/iperf3_UI"
         
         self.init_ui()
     
