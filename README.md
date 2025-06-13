@@ -15,8 +15,8 @@
 - 命令列參數支持
 ## 依賴項
 
--Python 3.6+
--PyQt5
+- Python 3.6+
+- PyQt5
 - pyqtgraph
 - iperf3（命令列工具）https://github.com/esnet/iperf
 
