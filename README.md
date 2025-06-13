@@ -1,3 +1,4 @@
+
 # iperf3 圖形使用者介面 繁體中文
 
 一個跨平台的iperf3圖形使用者介面，支援控制各種參數和圖形化顯示網路流量。
@@ -17,7 +18,7 @@
 -Python 3.6+
 -PyQt5
 - pyqtgraph
-- iperf3（命令列工具）
+- iperf3（命令列工具）https://github.com/esnet/iperf
 
 ## 安裝
 
@@ -47,7 +48,7 @@ pip install -r 要求.txt
 - Python 3.6+
 - PyQt5
 - pyqtgraph
-- iperf3（命令行工具）
+- iperf3（命令行工具）https://github.com/esnet/iperf
 
 ## 安装
 
@@ -56,3 +57,36 @@ pip install -r 要求.txt
 
 ```bash
 pip install -r requirements.txt
+````
+
+# iperf3 GUI English
+
+A cross-platform iperf3 GUI that supports controlling various parameters and graphically displaying network traffic.
+
+## Features
+
+- Supports Windows, macOS and Linux platforms
+- Multi-language support (Traditional Chinese, English, Simplified Chinese)
+- Client and server mode
+- Configurable iperf3 parameters
+- Real-time graphical display of network traffic
+- Automatically save test results (text, JSON and charts)
+- Apply the last used parameters automatically
+- Command line parameter support
+## Dependencies
+
+- Python 3.6+
+- PyQt5
+- pyqtgraph
+- iperf3 (command line tool) https://github.com/esnet/iperf
+
+## Installation
+
+1. Make sure the iperf3 tool command line is installed and added to the system path
+
+2. Install Python dependencies:
+
+````bash
+pip install -r requirements.txt
+
+````
