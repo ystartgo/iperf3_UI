@@ -26,7 +26,7 @@
 2.安裝Python依賴項：
 
 ````bash
-pip install -r 要求.txt
+pip install -r requirements.txt
 
 ````
 # iperf3 GUI 简体中文
